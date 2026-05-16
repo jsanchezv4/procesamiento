@@ -1,0 +1,13 @@
+method_id,method,brew_ratio,grind,water_temp_c,total_time_s,profile_bias,notes
+m_v60,V60,1:16,medium-fine,92,180,clarity_acidity,"Resalta claridad, florales y acidez brillante."
+m_kalita,Kalita Wave,1:16,medium-fine,92,185,clarity_balance,Lecho plano; extracción uniforme y balanceada.
+m_chemex,Chemex,1:17,medium,93,240,clarity_clean,Taza limpia y elegante con poco cuerpo.
+m_aeropress,AeroPress,1:15,medium-fine,85,120,versatile,Método flexible para cuerpo o claridad.
+m_french,French Press,1:15,coarse,94,240,body,Alta textura y cuerpo intenso.
+m_moka,Moka Pot,1:10,fine,95,300,intensity,Concentrado y con notas achocolatadas.
+m_coldbrew,Cold Brew,1:8,coarse,20,43200,sweetness,Muy dulce y baja acidez.
+m_siphon,Siphon,1:15,medium,92,180,tea_like,Perfil aromático tipo té.
+m_clever,Clever Dripper,1:16,medium,93,210,balanced,Combina inmersión y filtrado.
+m_espresso,Espresso,1:2,fine,93,30,concentrated,Extracción corta y concentrada.
+m_origami,Origami Dripper,1:16,medium-fine,91,180,clarity_floral,Excelente para cafés florales.
+m_pulsar,NextLevel Pulsar,1:17,medium,92,240,high_clarity,Control avanzado de flujo y claridad.

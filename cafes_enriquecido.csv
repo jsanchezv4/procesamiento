@@ -1,0 +1,21 @@
+coffee_id,origin,variety,process,altitude_m,roast_level,acidity,body,flavor_notes
+c_huila_geisha_washed,Huila,Geisha,washed,1750,light,high,light,jazmín; bergamota; miel; florales
+c_huila_castillo_honey,Huila,Castillo,honey,1650,light-medium,medium,medium,caramelo; durazno; panela
+c_narino_caturra_washed,Nariño,Caturra,washed,1900,light,high,medium,cítricos; panela; flores
+c_cauca_bourbon_washed,Cauca,Bourbon,washed,1800,light-medium,medium,medium,manzana; cacao; almendra
+c_santander_castillo_washed,Santander,Castillo,washed,1600,medium,low,high,cacao; nuez; panela
+c_tolima_typica_natural,Tolima,Typica,natural,1850,light,medium-high,medium,frutos rojos; vino; chocolate
+c_etiopia_yirgacheffe,Etiopía,Heirloom,washed,2100,light,high,light,té negro; jazmín; limón
+c_kenya_aa,Kenia,SL28,washed,1950,light,high,medium,grosella; tomate; cítricos
+c_brasil_bourbon,Brasil,Yellow Bourbon,natural,1200,medium,low,high,avellana; chocolate; azúcar morena
+c_guatemala_antigua,Guatemala,Bourbon,washed,1700,medium,medium,medium,cacao; naranja; miel
+c_colombia_pink_bourbon,Huila,Pink Bourbon,washed,1850,light,high,light,frambuesa; rosas; panela
+c_peru_caturra,Perú,Caturra,washed,1800,light-medium,medium,medium,mandarina; caramelo; cacao
+c_mexico_oaxaca,México,Typica,washed,1650,medium,medium-low,medium,nuez; cacao; piloncillo
+c_panama_geisha,Panamá,Geisha,washed,1900,light,high,light,jazmín; durazno; miel
+c_sumatra_mandheling,Indonesia,Typica,wet-hulled,1500,dark,low,high,tabaco; tierra húmeda; cacao
+c_ruanda_red_bourbon,Ruanda,Red Bourbon,washed,1850,light,high,medium,arándanos; té negro; panela
+c_bolivia_java,Bolivia,Java,natural,1750,light,medium-high,medium,mora; vino; azúcar mascabado
+c_salvador_pacamara,El Salvador,Pacamara,honey,1600,medium,medium,high,chocolate; melocotón; especias
+c_costa_rica_tarrazzu,Costa Rica,Caturra,washed,1900,light-medium,high,medium,cítricos; miel; manzana verde
+c_java_anaerobic,Colombia,Java,anaerobic,1800,light,high,medium,maracuyá; vino; frutas tropicales
